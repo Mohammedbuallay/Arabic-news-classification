@@ -14,7 +14,7 @@ In this project we Collect Arabic Sentence and Tried to make a Arabic word Embed
 
 * Download the pretrained models  : [pretrained_model](https://drive.google.com/drive/folders/1UEUaxqO7ptc52toTD-X_cGbkv7PgtCTn?usp=sharing)
 
-* also : you can download the dataset : [dataset](https://drive.google.com/file/d/1rL6nfuzwh3TkDju5buoXltJXu7yclbrs/view?usp=sharing
+* also : you can download the dataset : [dataset](https://drive.google.com/file/d/1rL6nfuzwh3TkDju5buoXltJXu7yclbrs/view?usp=sharing)
 
 
 # start
