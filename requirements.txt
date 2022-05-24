@@ -3,7 +3,7 @@ numpy==1.15.4
 gunicorn
 flask-cors
 pandas==0.24.2
-tensorflow==1.14.0
+tensorflow==2.6.4
 Keras==2.3.1
 scikit-learn==0.22.1
 Tashaphyne==0.3.4.1
